@@ -8,6 +8,7 @@
         <?php
         // put your code here
         echo 'hi';
+        echo 'yes';
         ?>
     </body>
 </html>
